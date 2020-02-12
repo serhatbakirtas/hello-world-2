@@ -1,1 +1,3 @@
-# hello-world-1
+# Intro Git Class
+
+## Hello class, thanks for coming!
